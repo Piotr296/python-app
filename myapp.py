@@ -1,7 +1,7 @@
 import random
 
 def division_quiz():
-    print("Welcome to Division Practice!")
+    pri nt("Welcome to Division Practice!")
     score = 0
     
     while True:
